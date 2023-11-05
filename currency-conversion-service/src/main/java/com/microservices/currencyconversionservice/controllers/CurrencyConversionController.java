@@ -57,7 +57,7 @@ public class CurrencyConversionController {
                 from, to, quantity,
                 currencyConversion.getConversionMultiple(),
                 quantity.multiply(currencyConversion.getConversionMultiple()),
-                currencyConversion.getEnvironment()+ " " + "rest template");
+                currencyConversion.getEnvironment()+ " " + "feign template");
 
     }
 
