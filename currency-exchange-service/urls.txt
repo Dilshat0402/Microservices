@@ -1,5 +1,5 @@
 Currency Exchange Service
-http://localhost:8080/currency-exchange/from/USD/to/TG
+http://localhost:8000/currency-exchange/from/USD/to/TG
 
 Currency Conversion Service
 http://localhost:8100/currency-conversion/from/USD/to/INR/quantity/10
